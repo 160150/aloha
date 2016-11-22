@@ -1,2 +1,2 @@
 # aloha
-はじめてのgitHub.
+はじめてのGitHub.
